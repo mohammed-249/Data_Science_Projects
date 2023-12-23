@@ -9,6 +9,8 @@ Welcome to my Data Science Projects repository! Here, I showcase a diverse colle
 
 **Project 2:**  [**NLP | Markov Model**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/NLP%20%7C%20Markov%20Model)
 
+*The project involves implementing a Markov model in Python to generate random text based on a given input, with a focus on order, frequency, and text generation.*
+
 **Project 3:**  [**Neural Networks | Handwriting Recognition**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/Neural%20Networks%20%7C%20Handwriting%20Recognition)
 
 **Project 4:**  [**Predictive Modeling for Agriculture**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/Predictive%20Modeling%20for%20Agriculture)
