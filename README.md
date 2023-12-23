@@ -3,16 +3,14 @@
 Welcome to my Data Science Projects repository! Here, I showcase a diverse collection of projects that demonstrate my skills in the field of data science. From predictive modeling and natural language processing to image classification and neural networks, these projects highlight my ability to derive meaningful insights and build impactful solutions using advanced data science techniques.
 
 # Projects
-Project 1: Predictive Modeling
+**Project 1:**  [**NLP | Knowledge Graph Generator from Text**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/NLP%20%7C%20Knowledge%20Graph%20Generator%20from%20Text)
 
-Description of Project 1.
-Project 2: Natural Language Processing
+**Project 2:**  [**NLP | Markov Model**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/NLP%20%7C%20Markov%20Model)
 
-Description of Project 2.
-Project 3: Image Classification
+**Project 3:**  [**Neural Networks | Handwriting Recognition**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/Neural%20Networks%20%7C%20Handwriting%20Recognition)
 
-Description of Project 3.
-Project 4: Neural Networks
+**Project 4:**  [**Predictive Modeling for Agriculture**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/Predictive%20Modeling%20for%20Agriculture)
+
 
 Description of Project 4.
 Project 5: More Projects
