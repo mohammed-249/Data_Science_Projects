@@ -5,6 +5,8 @@ Welcome to my Data Science Projects repository! Here, I showcase a diverse colle
 # Projects
 **Project 1:**  [**NLP | Knowledge Graph Generator from Text**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/NLP%20%7C%20Knowledge%20Graph%20Generator%20from%20Text)
 
+*This Equitech Futures ADI Capstone leverages Whisper and BERN2 APIs to convert medical voice data into a Neo4j-stored knowledge graph, enhancing doctor-patient communication insights.*
+
 **Project 2:**  [**NLP | Markov Model**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/NLP%20%7C%20Markov%20Model)
 
 **Project 3:**  [**Neural Networks | Handwriting Recognition**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/Neural%20Networks%20%7C%20Handwriting%20Recognition)
