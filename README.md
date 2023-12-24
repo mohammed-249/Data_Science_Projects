@@ -13,6 +13,8 @@ Welcome to my Data Science Projects repository! Here, I showcase a diverse colle
 
 **Project 3:**  [**Neural Networks | Handwriting Recognition**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/Neural%20Networks%20%7C%20Handwriting%20Recognition)
 
+*Handwriting Recognition with Neural Network: Python implementation using a three-layer neural network for recognizing handwritten digits with the MNIST dataset.*
+
 **Project 4:**  [**Predictive Modeling for Agriculture**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/Predictive%20Modeling%20for%20Agriculture)
 
 
