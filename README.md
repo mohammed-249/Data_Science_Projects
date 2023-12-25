@@ -18,10 +18,6 @@ Welcome to my Data Science Projects repository! Here, I showcase a diverse colle
 **Project 4:**  [**Predictive Modeling for Agriculture**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/Predictive%20Modeling%20for%20Agriculture)
 
 
-Description of Project 4.
-Project 5: More Projects
-
-Description of additional projects.
 # Skills Demonstrated
 
 - 👩‍💻 **Predictive Modeling:** Building and evaluating models to make predictions based on data.
