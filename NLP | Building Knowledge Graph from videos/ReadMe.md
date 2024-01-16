@@ -7,11 +7,14 @@ Welcome to this repository for building knowledge graphs from video transcriptio
 Read the full article for step by step explanation of the code [**here**](https://mohammed249.medium.com/6cafcba5f3e5)
 
 ## Getting Started
-Clone the repository:
+**Clone the repository:**
+
 git clone https://github.com/[your-username]/[your-repository-name]
 
-Obtain an OpenAI API key:
-Sign up for a free OpenAI account at https://beta.openai.com/account/api-keys
-Set your API key as an environment variable:
+**Obtain an OpenAI API key:**
+
+Sign up for a free OpenAI account at https://platform.openai.com/account/api-keys
+
+(Note: you need to have access to GPT Plus to execute this project)
 
 
