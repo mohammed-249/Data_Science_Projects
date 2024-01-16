@@ -3,7 +3,7 @@
 Welcome to my Data Science Projects repository! Here, I showcase a diverse collection of projects that demonstrate my skills in the field of data science. From predictive modeling and natural language processing to image classification and neural networks, these projects highlight my ability to derive meaningful insights and build impactful solutions using advanced data science techniques.
 
 # Projects
-**Project 1:**  [**NLP | Knowledge Graph Generator from Text**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/NLP%20%7C%20Knowledge%20Graph%20Generator%20from%20Text)
+**Project 1:**  [**NLP | Building Knowledge Graph from videos**](https://github.com/mohammed-249/Data_Science_Projects/tree/main/NLP%20%7C%20Building%20Knowledge%20Graph%20from%20videos)
 
 *This Equitech Futures ADI Capstone leverages Whisper and BERN2 APIs to convert medical voice data into a Neo4j-stored knowledge graph, enhancing doctor-patient communication insights.*
 
