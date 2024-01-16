@@ -9,7 +9,7 @@ Read the full article for step by step explanation of the code [**here**](https:
 ## Getting Started
 **Clone the repository:**
 
-git clone https://github.com/[your-username]/[your-repository-name]
+git clone https://github.com/mohammed-249/Data_Science_Projects/tree/main/NLP%20%7C%20Building%20Knowledge%20Graph%20from%20videos
 
 **Obtain an OpenAI API key:**
 
